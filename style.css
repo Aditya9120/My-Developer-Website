@@ -1,0 +1,84 @@
+body{
+
+margin-top:0;
+text-align:center;	
+background-color: #f0f0f0;
+font-family: serif;
+font-size: 200%;
+
+}
+
+h1{
+	
+	margin:0 auto 0 auto;
+	padding-top:50px;
+	font-family:  cursive;
+	font-size:60px;
+	color: #66BFBF;
+	line-height: 2;
+}
+p{
+	text-align: center;
+	font-family: 'Handlee', cursive;
+	font-size: 20px;
+	color: red;
+	font-weight:normal;
+
+}
+
+.bottom-cloud
+{
+	position:absolute;
+
+}
+.top-cloud
+{
+	position:relative;
+	left:200px;
+}
+
+.skill-row 
+{
+	width: 50%;
+	margin:auto;
+
+}
+
+.computer
+{
+	max-width:40%;
+	max-height: 40%;
+	float: right;
+	margin:20px;
+
+}
+.prog
+{
+	max-height:40%;
+	max-width: 40%;
+	float:left;
+
+	
+	
+}
+h3{
+	font-family: 'Bangers', cursive;
+}
+
+.profile
+{
+	margin-top:20px;
+}
+
+h2
+{
+	font-family: 'Economica', sans-serif;
+}
+.profile
+{
+	width:50%;
+	margin-left:190px;
+}
+
+
+
